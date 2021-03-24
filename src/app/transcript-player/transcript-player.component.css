@@ -1,0 +1,17 @@
+.transcript-player {
+  max-width: 50vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4rem;
+  text-align: center;
+}
+
+.tail {
+  color: crimson;
+}
+
+.head {
+  color: darkgray;
+  padding-right: .25em;
+}

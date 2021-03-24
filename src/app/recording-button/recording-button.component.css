@@ -1,0 +1,11 @@
+.recorder-card {
+  max-width: 480px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4rem;
+  text-align: center;
+}
+
+::ng-deep .mat-card-header-text {
+  width: 100%;
+}
