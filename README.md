@@ -10,6 +10,8 @@ Provide a configurable Angular module with a recorder and a transcript player.
 - [ ] connect to rev.ai API (with or without node SDK)
 - [ ] (maybe) relay over node backend (see challenges)
 - [ ] clean up dependencies
+- [ ] restructure as an angular module
+- [ ] unit tests
 
 # Challenges
 * The official node client relies on the stream API. There are userland implementations, but linking will
